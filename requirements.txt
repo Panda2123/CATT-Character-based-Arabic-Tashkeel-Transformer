@@ -1,0 +1,8 @@
+requests
+gradio
+shakkala
+kaldialign
+spaces
+pytorch_lightning
+tqdm
+tensorflow
